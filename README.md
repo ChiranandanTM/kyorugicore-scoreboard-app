@@ -1,1 +1,1 @@
-# kyorugicore-scoreboard-app
+# KC-testing
